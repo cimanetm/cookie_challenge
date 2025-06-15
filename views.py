@@ -21,7 +21,7 @@ def index(request):
 def register(request):
     context = {
         "contest_name": "Great Cookie Challenge",
-        "introduction": "Welcome to the Great Cookie Challenge! Online registration is under construction.",
+        "introduction": "Welcome to the Great Cookie Challenge! ONLINE REGISTRATION IS UNDER CONSTRUCTION.",
         "instructions": [
             "Bakers: Share your best cookie recipes and show off your baking skills.",
             "Voters: Bake the cookies, upload proof, and vote for your favorite recipe.",
